@@ -9,7 +9,7 @@ public class RoomVo {
     private int RoomFee = null;
     private String Roomthings = null;
     private String RoomSize = null;
-    private int StaffCode = null; // FK
+    private int ManagerCode = null; // FK
     private String RoonView = null;
 
 
